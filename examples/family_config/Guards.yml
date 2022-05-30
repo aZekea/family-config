@@ -1,0 +1,15 @@
+name: Семья Гвардий
+key: гвардия
+color: yellow
+emblem: Flame_03
+  description: >
+    Семья гвардий состоит из трех кланов. Активные клановые войны, тренировки, подбор дек, живое общение. Приглашаем игроков вступить в наши гвардии.
+  social:
+    - discord: https://discord.gg/aFN5UWuvmE
+clans:
+  - name: Белая Гвардия
+    tag: YUV2Y2R
+  - name: Темная Гвардия
+    tag: QRJ8LJC9
+  - name: Красная Гвардия
+    tag: QV9U0LGV
